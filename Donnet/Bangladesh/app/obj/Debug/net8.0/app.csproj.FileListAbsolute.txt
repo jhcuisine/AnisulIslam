@@ -1,0 +1,14 @@
+E:\AnisulIslam\Donnet\Bangladesh\app\bin\Debug\net8.0\app.exe
+E:\AnisulIslam\Donnet\Bangladesh\app\bin\Debug\net8.0\app.deps.json
+E:\AnisulIslam\Donnet\Bangladesh\app\bin\Debug\net8.0\app.runtimeconfig.json
+E:\AnisulIslam\Donnet\Bangladesh\app\bin\Debug\net8.0\app.dll
+E:\AnisulIslam\Donnet\Bangladesh\app\bin\Debug\net8.0\app.pdb
+E:\AnisulIslam\Donnet\Bangladesh\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\AnisulIslam\Donnet\Bangladesh\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+E:\AnisulIslam\Donnet\Bangladesh\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+E:\AnisulIslam\Donnet\Bangladesh\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+E:\AnisulIslam\Donnet\Bangladesh\app\obj\Debug\net8.0\app.dll
+E:\AnisulIslam\Donnet\Bangladesh\app\obj\Debug\net8.0\refint\app.dll
+E:\AnisulIslam\Donnet\Bangladesh\app\obj\Debug\net8.0\app.pdb
+E:\AnisulIslam\Donnet\Bangladesh\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+E:\AnisulIslam\Donnet\Bangladesh\app\obj\Debug\net8.0\ref\app.dll
